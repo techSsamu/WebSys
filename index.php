@@ -166,7 +166,7 @@ function showValue($value) {
             <span>C#, C++</span>
             <span>Java</span>
             <span>HTML</span>
-            <span>Web Developing</span>
+            <span>Web Development</span>
         </div>
     </div>
 </div>
